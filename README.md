@@ -1,16 +1,22 @@
-### Hi there 👋
+# Misael Duarte
 
-<!--
-**Misaelduarte/Misaelduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Full stack developer 💻
 
-Here are some ideas to get you started:
+[![Badge](https://img.shields.io/badge/Linkedin-%23007785?style=flat-square&logo=LinkedIn)](https://bit.ly/linkedin-misaelduarte) [![Badge](https://img.shields.io/badge/misael.winphp@gmail.com-%231c1c1c?style=flat-square&logo=Gmail)](misael.winphp@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😃 Hi, welcome to my profile, I'm a web & mobile application developer, passionate about programming!
+
+#### 🧔 About me
+
+Hi, I'm Misael, Enthusiast of the open source world, passionate about the development of internet applications, and motivated to always learn the best technologies used in the market for development. I am in the last year of college, studying Information Technology Management, I am currently working as a full stack developer at MindConsulting in Sorocaba-SP, Brazil.
+
+#### 🚀 Motivation & Skills
+
+Always motivated to learn and apply new technologies for greater efficiency and application performance. Always willing to transform lines of code into solution 🔥
+My main development skills: 🚨
+
+- php
+- Laravel
+- Javascript
+- React.js
+- node.js
