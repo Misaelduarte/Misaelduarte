@@ -2,7 +2,7 @@
 
 #### Full stack developer 💻
 
-[![Badge](https://img.shields.io/badge/Linkedin-%23007785?style=flat-square&logo=LinkedIn)](https://bit.ly/linkedin-misaelduarte) [![Badge](https://img.shields.io/badge/misael.winphp@gmail.com-%231c1c1c?style=flat-square&logo=Gmail)](misael.winphp@gmail.com)
+[![Badge](https://img.shields.io/badge/Linkedin-%23007785?style=flat-square&logo=LinkedIn)](https://bit.ly/linkedin-misaelduarte) [![Badge](https://img.shields.io/badge/developer.md775@gmail.com-%231c1c1c?style=flat-square&logo=Gmail)](developer.md775@gmail.com)
 
 😃 Hi, welcome to my profile, I'm a web & mobile application developer, passionate about programming!
 
