@@ -8,4 +8,4 @@
 
 ### 🧔 About me
 
-Enthusiast of the open source world, passionate about the development of internet applications, and motivated to always learn the best technologies used in the market for development. I am currently working as a full stack developer at MindConsulting in Sorocaba-SP, Brazil
+Enthusiast of the open source world, passionate about the development of internet applications, and motivated to always learn the best technologies used in the market for development. I currently work as a front end developer at EMEAL NTTDATA in São Pulo-SP, Brazil.
